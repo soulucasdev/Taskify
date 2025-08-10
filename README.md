@@ -17,7 +17,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/taskify.git
+git clone https://github.com/soulucasdev/taskify.git
 
 # Navigate into the project folder
 cd taskify
