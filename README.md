@@ -17,10 +17,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/soulucasdev/taskify.git
+git clone https://github.com/soulucasdev/Taskify.git
 
 # Navigate into the project folder
-cd taskify
+cd Taskify
 
 # Install dependencies
 npm install
